@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub Repository](https://github.com/ankita-rath/StaxTech)
+- Solution URL: [GitHub Repository](https://github.com/ankita-rath/StaxTech_Rock_Paper_Scissors)
 - Live Site URL: [Live Site](https://rock-paper-scissors-frontend.netlify.app/)
 
 ## My Process
